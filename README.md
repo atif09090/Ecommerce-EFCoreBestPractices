@@ -1,4 +1,6 @@
-🛒 SmartCart – Order Management API
+# 🛒 SmartCart – Order Management API
+
+---
 
 A real-world .NET API project demonstrating **smart and efficient usage of Entity Framework Core (EF Core)**. This project avoids beginner-level mistakes and applies best practices for performance, scalability, and maintainability in a production-grade system.
 
