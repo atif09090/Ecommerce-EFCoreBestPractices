@@ -1,0 +1,6 @@
+@Ecommerce_EFCoreBestPractices_HostAddress = http://localhost:5103
+
+GET {{Ecommerce_EFCoreBestPractices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
